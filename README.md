@@ -23,3 +23,4 @@ DJANGO
 - python manage.py createsuperuser
 
 - link different html pages by using {% extends    'page name'%}
+- python manage.py runserver
